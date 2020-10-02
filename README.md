@@ -7,7 +7,7 @@
 - 💬 Ask me about how I combine my musical and CS interests
 - 📫 How to reach me: alexworland@gmail.com
 - 😄 Pronouns: She / Her
-- ⚡ Fun fact: I graduated with a music degree back in 2017! Before the pandemic I worked as a performing musician with the Tacoma Musical Playhouse playing roughly 20 shows times a month!
+- ⚡ Fun fact: I graduated with a music degree back in 2017! Before the pandemic I worked as a performing musician with the Tacoma Musical Playhouse playing roughly 20 shows a month!
 
 <!--
 **AlexWorland/AlexWorland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
