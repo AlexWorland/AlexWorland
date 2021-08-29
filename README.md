@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I'm a post-bacc computer science student at Central Washington University expecting to graduate in spring 2022
-- 🌱 I’m currently working on a neural network profiling utility. Check out my progress in AlexWorland/ANNProfiler.py
+- 🌱 I’m currently working on preparing for the upcoming school year
 - 👯 I’m looking to collaborate on all sorts of projects!
-- 🤔 I’m looking for help with software engineer internship applications and interview preperation
+- 🤔 I’m looking for help with software engineering concepts
 - 💬 Ask me about how I combine my musical and CS interests
 - 📫 How to reach me: alexworland@gmail.com
 - 😄 Pronouns: She / Her
