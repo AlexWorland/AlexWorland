@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on all sorts of projects!
 - 🤔 I’m looking for help with software engineering concepts
 - 💬 Ask me about how I combine my musical and CS interests
-- 📫 How to reach me: alexworland@gmail.com
+- 📫 How to reach me: alexworland [at] gmail.com
 - 😄 Pronouns: She / Her
 - ⚡ Fun fact: I graduated with a music degree back in 2017! Before the pandemic I worked as a performing musician with the Tacoma Musical Playhouse playing roughly 20 shows a month!
 
