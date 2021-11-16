@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm a post-bacc computer science student at Central Washington University expecting to graduate in spring 2022
-- 🌱 I’m currently working on preparing for the upcoming school year
+- 🌱 I’m currently working hard on my senior year classes
 - 👯 I’m looking to collaborate on all sorts of projects!
 - 🤔 I’m looking for help with software engineering concepts
 - 💬 Ask me about how I combine my musical and CS interests
